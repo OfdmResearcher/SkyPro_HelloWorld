@@ -3,6 +3,6 @@ package com.skypro;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hi SkyPro=)");
+        System.out.println("Hi SkyPro =)");
     }
 }
